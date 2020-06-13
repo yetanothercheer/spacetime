@@ -15,7 +15,7 @@ import {
   Line,
   BufferGeometry,
 } from 'three'
-import Control from './Control'
+import Control from '../components/Control'
 
 const f = (x: number, y: number) => 0
 
